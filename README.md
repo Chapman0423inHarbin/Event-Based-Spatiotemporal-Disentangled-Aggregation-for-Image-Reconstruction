@@ -9,6 +9,9 @@ Install command:
 pip install torch torchvision torchmetrics lpips opencv-python numpy pillow
 ```
 
+## Citation
+If you find our work useful for your research, please cite our paper.
+
 DOI:
 ```bash
 10.1155/int/4139129
