@@ -7,7 +7,9 @@ The Event-Based Spatial-Temporal Disentangled Aggregation (ESDAR) method reconst
 Install command:
 ```bash
 pip install torch torchvision torchmetrics lpips opencv-python numpy pillow
-
+```
+Cite：
+```bash
 @article{Wang2026EventBasedSD,
   title={Event-Based Spatiotemporal Disentangled Aggregation for Image Reconstruction},
   author={Yanwei Wang and Chubin Peng and Zhenhui Min and Qingju Tang},
@@ -16,3 +18,4 @@ pip install torch torchvision torchmetrics lpips opencv-python numpy pillow
   volume={2026},
   url={https://api.semanticscholar.org/CorpusID:288029299}
 }
+```
