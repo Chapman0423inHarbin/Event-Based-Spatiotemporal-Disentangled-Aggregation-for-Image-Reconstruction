@@ -8,6 +8,12 @@ Install command:
 ```bash
 pip install torch torchvision torchmetrics lpips opencv-python numpy pillow
 ```
+
+DOI:
+```bash
+10.1155/int/4139129
+```
+
 Cite：
 ```bash
 @article{Wang2026EventBasedSD,
